@@ -1,8 +1,8 @@
 # Python Lesson Plans
-Welcome to the <strong>Python Lesson Plans</strong> repository! This project is designed to offer structured learning materials for individuals<br> starting their journey with Python programming.
+Welcome to the <strong>Python Lesson Plans</strong> repository! This project is designed to offer structured learning materials for individuals starting their journey with Python programming.
 
 ## Purpose
-The aim of this repository is to provide a free, comprehensive, and progressively structured set of lesson plans for learning<br> Python. From absolute beginners to those looking to deepen their understanding, these lessons are crafted to guide you<br> through the language step by step.
+The aim of this repository is to provide a free, comprehensive, and progressively structured set of lesson plans for learning Python. From absolute beginners to those looking to deepen their understanding, these lessons are crafted to guide you through the language step by step.
 
 ## How to Use These Lesson Plans
 1. <strong>Browse Lessons:</strong> Navigate through the `lessons/` folder where each lesson is stored. Lessons are organized sequentially.
